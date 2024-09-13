@@ -62,6 +62,9 @@ public class Base_Test {
 //		String browser=file.readPropertyData("browser");
 //		String url=file.readPropertyData("url");
 		
+		
+		
+		
 		//****for cmd****
 		String browser=System.getProperty("browser");
 		String url=System.getProperty("url");
