@@ -67,9 +67,6 @@ public class Base_Test {
 		String url=System.getProperty("url");
 		
 		
-		
-		
-		
 		if(browser.contains("chrome")) {
 			driver=new ChromeDriver();
 		}
